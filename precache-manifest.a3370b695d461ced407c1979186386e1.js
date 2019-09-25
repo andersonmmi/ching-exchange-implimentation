@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/ching-exchange-implimentation/static/js/runtime~main.4229b086.js"
   },
   {
-    "revision": "6e2a41ae7765859e9a60",
-    "url": "/ching-exchange-implimentation/static/js/main.6e2a41ae.chunk.js"
+    "revision": "da64a71bfbe4f67fcf12",
+    "url": "/ching-exchange-implimentation/static/js/main.da64a71b.chunk.js"
   },
   {
     "revision": "5dda55c1f322ff82c454",
     "url": "/ching-exchange-implimentation/static/js/1.5dda55c1.chunk.js"
   },
   {
-    "revision": "a49cbbbb314a51fe5f73a5b25cec7da0",
+    "revision": "e09486459f6d4f2769af1565652b71b7",
     "url": "/ching-exchange-implimentation/index.html"
   }
 ];
